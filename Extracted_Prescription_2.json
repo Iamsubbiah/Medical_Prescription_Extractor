@@ -1,0 +1,53 @@
+{
+  "name": "Beena George",
+  "age": "48",
+  "gender": "Female",
+  "date": "2023-07-29",
+  "medicines": [
+    {
+      "name": "Losar H",
+      "dosage": "1-0-0",
+      "days": "7"
+    },
+    {
+      "name": "Amiodac",
+      "dosage": "5mg",
+      "days": "7"
+    },
+    {
+      "name": "Avos",
+      "dosage": "10mg",
+      "days": "7"
+    },
+    {
+      "name": "Dicorate ER",
+      "dosage": "250mg",
+      "days": "7"
+    },
+    {
+      "name": "Lacalm PLUS",
+      "dosage": "1-0-1",
+      "days": "7"
+    },
+    {
+      "name": "LoNazep",
+      "dosage": "1mg",
+      "days": "7"
+    },
+    {
+      "name": "Glucored Forte",
+      "dosage": "1-0-1",
+      "days": "7"
+    },
+    {
+      "name": "Glycomet SR",
+      "dosage": "500mg",
+      "days": "7"
+    },
+    {
+      "name": "Pantop",
+      "dosage": "40mg",
+      "days": "7"
+    }
+  ]
+}

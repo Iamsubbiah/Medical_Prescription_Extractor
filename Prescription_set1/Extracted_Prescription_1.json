@@ -1,0 +1,28 @@
+{
+  "name": "ASHVIKA",
+  "age": "49",
+  "gender": "Female",
+  "date": "2022-09-20",
+  "medicines": [
+    {
+      "name": "SYP CALPOL",
+      "dosage": "250/5, 4 ML QGH",
+      "days": "3"
+    },
+    {
+      "name": "Syp DELCON",
+      "dosage": "3 ML TDS",
+      "days": "5"
+    },
+    {
+      "name": "SYP LEVOLIN",
+      "dosage": "3 ML TDS",
+      "days": "5"
+    },
+    {
+      "name": "SYP MEFTAL-P",
+      "dosage": "100/5, 3 ML",
+      "days": "5"
+    }
+  ]
+}
